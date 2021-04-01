@@ -30,4 +30,4 @@ AND AT SAME TIME:
 -End To End encryption between tor client and server tor client :)
 -Onion address + keys generated on first login
 
-Keep an eye on this page for more! And my Blog will have announcements: https://www.buymeacoffee.com/politictech
+Keep an eye on this page for more! And my Blog will have announcements: https://www.buymeacoffee.com/politictech/posts
