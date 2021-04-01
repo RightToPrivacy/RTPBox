@@ -1,15 +1,5 @@
 # RTPBox
 
- _______   ________  _______   _______    ______   __    __ 
- /       \ /        |/       \ /       \  /      \ /  |  /  |
-$$$$$$$  |$$$$$$$$/ $$$$$$$  |$$$$$$$  |/$$$$$$  |$$ |  $$ |
-$$ |__$$ |   $$ |   $$ |__$$ |$$ |__$$ |$$ |  $$ |$$  \/$$/ 
-$$    $$<    $$ |   $$    $$/ $$    $$< $$ |  $$ | $$  $$<  
-$$$$$$$  |   $$ |   $$$$$$$/  $$$$$$$  |$$ |  $$ |  $$$$  \ 
-$$ |  $$ |   $$ |   $$ |      $$ |__$$ |$$ \__$$ | $$ /$$  |
-$$ |  $$ |   $$ |   $$ |      $$    $$/ $$    $$/ $$ |  $$ |
-$$/   $$/    $$/    $$/       $$$$$$$/   $$$$$$/  $$/   $$/ 
-                                                            
                               
 
 RTPBOX (Right To Privacy Box) is an all in one "privacy box" you can burn to your single board computer (starting with Raspberry Pi 4). If you have a great idea you can submit it and let's make something great together!
