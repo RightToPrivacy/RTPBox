@@ -2,7 +2,6 @@
 
                               
 EDIT: 11.06.2021 Working on this in association w/tutorial creation. Some concepts found within will be shared individually as scripts/packages (where it makes sense to) and included as part within tutorials.
-One example of those scripts is wipri (among others).
 
 ## The overall RTPBOX/RIGHTSBOX repository will be made public when more is finished/ready for public.
 
